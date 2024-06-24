@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T21:57:47 NPT" name="Suite" finished-at="2024-06-24T21:57:55 NPT" duration-ms="7608">
+    <groups>
+    </groups>
+    <test started-at="2024-06-24T21:57:47 NPT" name="Test" finished-at="2024-06-24T21:57:55 NPT" duration-ms="7608">
+      <class name="broadwayinfosys.Broadway">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:43 NPT" name="openbrowser" finished-at="2024-06-24T21:57:47 NPT" duration-ms="4732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="messageBeforeClass()[pri:0, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:47 NPT" name="messageBeforeClass" finished-at="2024-06-24T21:57:47 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageBeforeClass -->
+        <test-method is-config="true" signature="messageBeforeTestCases()[pri:0, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:47 NPT" name="messageBeforeTestCases" finished-at="2024-06-24T21:57:47 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageBeforeTestCases -->
+        <test-method signature="landingPage()[pri:1, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:47 NPT" name="landingPage" finished-at="2024-06-24T21:57:52 NPT" duration-ms="4203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingPage -->
+        <test-method is-config="true" signature="messageAfterMethod()[pri:0, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:52 NPT" name="messageAfterMethod" finished-at="2024-06-24T21:57:52 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageAfterMethod -->
+        <test-method is-config="true" signature="messageBeforeTestCases()[pri:0, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:52 NPT" name="messageBeforeTestCases" finished-at="2024-06-24T21:57:52 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageBeforeTestCases -->
+        <test-method signature="courseResults()[pri:2, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:52 NPT" name="courseResults" finished-at="2024-06-24T21:57:53 NPT" duration-ms="1145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- courseResults -->
+        <test-method is-config="true" signature="messageAfterMethod()[pri:0, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:53 NPT" name="messageAfterMethod" finished-at="2024-06-24T21:57:53 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageAfterMethod -->
+        <test-method is-config="true" signature="messageBeforeTestCases()[pri:0, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:53 NPT" name="messageBeforeTestCases" finished-at="2024-06-24T21:57:53 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageBeforeTestCases -->
+        <test-method signature="HoverTest()[pri:3, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:53 NPT" name="HoverTest" finished-at="2024-06-24T21:57:55 NPT" duration-ms="2194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HoverTest -->
+        <test-method is-config="true" signature="messageAfterMethod()[pri:0, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:55 NPT" name="messageAfterMethod" finished-at="2024-06-24T21:57:55 NPT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageAfterMethod -->
+        <test-method is-config="true" signature="messageAfterClass()[pri:0, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:55 NPT" name="messageAfterClass" finished-at="2024-06-24T21:57:55 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageAfterClass -->
+        <test-method is-config="true" signature="close_window()[pri:0, instance:broadwayinfosys.Broadway@7714e963]" started-at="2024-06-24T21:57:55 NPT" name="close_window" finished-at="2024-06-24T21:57:55 NPT" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_window -->
+      </class> <!-- broadwayinfosys.Broadway -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
